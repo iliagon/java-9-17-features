@@ -11,6 +11,7 @@
 
 ## Java 11
 
+* Flight Recorder - https://www.baeldung.com/java-flight-recorder-monitoring
 * New HTTP Client - https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/
 
 ## Java 12
@@ -30,3 +31,7 @@
 ## Java 15
 
 * Sealed classes - https://www.infoq.com/articles/java-sealed-classes/
+
+## Java 16-17
+
+* Already mentioned features becoming production-ready
