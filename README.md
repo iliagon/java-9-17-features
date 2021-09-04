@@ -1,5 +1,7 @@
 # Java 9-17 features
 
+See: Java 12-17 features article - https://dzone.com/articles/new-features-from-java-12-to-17
+
 ## Java 9
 
 * Factory methods for collections - https://www.baeldung.com/java-9-collections-factory-methods
